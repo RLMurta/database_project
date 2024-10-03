@@ -15,6 +15,7 @@
 This project allowed us to apply key concepts of database modeling and SQL queries, fundamental for developing robust and efficient systems.
 
 
+--------------------------------------------------------------------------------------------------------------
 > Este projeto foi desenvolvido como parte do curso Santander Coders e está dividido em duas partes principais.
 
 * Parte 1: Focada na criação de um banco de dados para um sistema de gerenciamento de restaurante. Seguindo as especificações do arquivo Projeto.pdf, modelamos e estruturamos o banco de dados para atender às necessidades de gestão de pedidos, mesas, clientes, cardápio e outras operações típicas de um restaurante. O objetivo foi garantir uma base sólida para armazenar e gerenciar eficientemente as informações do restaurante.
@@ -45,7 +46,7 @@ Este projeto permitiu aplicar conceitos de modelagem de banco de dados e consult
 * DBeaver will restore the data from the dvdrental.tar file into the newly created database.
 7. Verify the import:
 * After completion, you can view the restored tables in the dvdrental database under the "Database Navigator" panel.
-
+--------------------------------------------------------------------------------------------------------------
 1. Abra o DBeaver e conecte-se ao seu banco de dados PostgreSQL.
 2. Crie um novo banco de dados:
 * No painel "Database Navigator", clique com o botão direito na conexão com o PostgreSQL.
